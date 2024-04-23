@@ -1,0 +1,25 @@
+.navbar-brand {
+  font-family: "Poppins", sans-serif;
+}
+
+.icons {
+  margin-left: 1rem !important;
+  text-align: center;
+  justify-content: center;
+  margin: auto;
+  color: black;
+}
+
+.icons:hover {
+  background-color: black !important;
+  color: white;
+  padding: 9px;
+  border-radius: 100%;
+}
+
+.icons:active {
+  background-color: black !important;
+  color: white;
+  padding: 9px;
+  border-radius: 100%;
+}

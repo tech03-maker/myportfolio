@@ -1,0 +1,81 @@
+.hero-tag {
+  font-size: 20px !important;
+  font-weight: lighter !important;
+  transform: skew(10deg);
+  z-index: 99;
+  top: 0;
+  position: relative;
+}
+
+.head {
+  font-size: 3.5rem;
+}
+
+.span {
+  color: rgb(0, 252, 0);
+}
+
+.circle {
+  width: 12%;
+  position: relative;
+  margin-top: -6.2rem;
+  left: 4.4rem;
+}
+
+.tech {
+  margin-left: 10px !important;
+  text-align: center;
+  margin: auto;
+  justify-content: center;
+  color: rgb(6, 6, 43);
+  font-size: 1rem;
+  background-color: white;
+  padding: 7px;
+  border-radius: 100%;
+  position: relative;
+  bottom: 3rem;
+}
+
+.about {
+  border-left: 2px solid white;
+}
+
+.note {
+  font-style: italic;
+}
+
+.button {
+  border: none;
+  background-color: rgb(0, 252, 0);
+  border-radius: 7px;
+}
+
+.button:hover {
+  box-shadow: 0px 2px 3px rgb(0, 252, 0);
+  border: 2px solid rgb(0, 252, 0);
+  background-color: transparent;
+  color: rgb(0, 252, 0);
+}
+
+.links a {
+  text-decoration: none;
+  color: white;
+}
+.links a:hover {
+  text-decoration: 1px solid rgb(0, 252, 0) underline;
+}
+
+.link-icon {
+  color: rgb(0, 252, 0);
+}
+
+/* Media Query*/
+@media (max-width: 576px) {
+  .head {
+    font-size: 2.5rem;
+  }
+
+  .circle {
+    width: 45%;
+  }
+}
