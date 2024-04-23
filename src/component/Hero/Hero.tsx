@@ -16,7 +16,7 @@ const Hero = () => {
         <div className="text-center m-auto">
           <h2 className="head text-white fw-bold mt-5">
             Let Us <span className="span">Handle</span> Your{" "}
-            <span className="span">Project</span>
+            <span className="span">Websites!</span>
           </h2>
           <p className="hero-tag text-white text-center">
             Check Out My Portfolio!
