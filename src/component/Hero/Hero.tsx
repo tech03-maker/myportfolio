@@ -61,7 +61,7 @@ const Hero = () => {
               </a>
             </p>
             <p className="links text-white">
-              <a href="mustard-one.vercel.app">
+              <a href="https://mustard-one.vercel.app/">
                 Mustard Clone{" "}
                 <FontAwesomeIcon
                   className="link-icon"
