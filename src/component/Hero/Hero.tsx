@@ -52,7 +52,7 @@ const Hero = () => {
               My <span className="span">Projects</span>
             </p>
             <p className="links text-white">
-              <a href="#">
+              <a href="https://zeetechgadgets.com.ng/">
                 Zeetech{" "}
                 <FontAwesomeIcon
                   className="link-icon"
@@ -61,7 +61,7 @@ const Hero = () => {
               </a>
             </p>
             <p className="links text-white">
-              <a href="#">
+              <a href="mustard-one.vercel.app">
                 Mustard Clone{" "}
                 <FontAwesomeIcon
                   className="link-icon"
@@ -70,7 +70,7 @@ const Hero = () => {
               </a>
             </p>
             <p className="links text-white">
-              <a href="#">
+              <a href="https://credlock-beta.vercel.app/">
                 Credlock Clone{" "}
                 <FontAwesomeIcon
                   className="link-icon"
