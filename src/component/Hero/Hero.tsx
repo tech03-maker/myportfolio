@@ -53,7 +53,7 @@ const Hero = () => {
             </p>
             <p className="links text-white">
               <a href="https://zeetechgadgets.com.ng/">
-                Zeetech{" "}
+                Zeetech Gadgets{" "}
                 <FontAwesomeIcon
                   className="link-icon"
                   icon={faExternalLinkAlt}
