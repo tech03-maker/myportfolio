@@ -39,13 +39,13 @@ const Navbar = () => {
               <a href="#">
                 <FontAwesomeIcon className="icons" icon={faGithub} />
               </a>
-              <a href="X: https://bit.ly/3V6OA0n">
+              <a href="https://bit.ly/3V6OA0n">
                 <FontAwesomeIcon className="icons" icon={faXTwitter} />
               </a>
-              <a href="WhatsApp: https://bit.ly/madrasah-donation-fee">
+              <a href="https://bit.ly/madrasah-donation-fee">
                 <FontAwesomeIcon className="icons" icon={faWhatsapp} />
               </a>
-              <a href="Linkedin: https://bit.ly/3V62MGU">
+              <a href="https://bit.ly/3V62MGU">
                 <FontAwesomeIcon className="icons" icon={faLinkedin} />
               </a>
             </form>
